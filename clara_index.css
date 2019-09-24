@@ -1,0 +1,12 @@
+img {
+    border: 5px solid white;
+    border-radius: 50%;
+    border-color:("#60FF14");
+    align: center;
+}
+
+body {
+  background-image:url(https://i.pinimg.com/564x/38/99/da/3899dabd5fd5c6fa39f2c371e5e02504.jpg);
+  font-family: 'Noticia Text', serif;
+  text-align: center;
+}
