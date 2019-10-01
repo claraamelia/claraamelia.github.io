@@ -1,12 +1,60 @@
 img {
-    border: 5px solid white;
+    border: 3px solid white;
     border-radius: 50%;
-    border-color:("#60FF14");
     align: center;
 }
 
 body {
-  background-image:url(https://i.pinimg.com/564x/38/99/da/3899dabd5fd5c6fa39f2c371e5e02504.jpg);
-  font-family: 'Noticia Text', serif;
+  background-image:url("https://i.pinimg.com/564x/4f/80/b9/4f80b9afa7b4113c1aede02a2fe4c79f.jpg");
+  font-family:'Noticia Text', serif;
   text-align: center;
+}
+
+header {
+ background: url("https://i.pinimg.com/564x/38/99/da/3899dabd5fd5c6fa39f2c371e5e02504.jpgZ");
+ padding: 15px;
+ font-size: 20pt;
+ font-weight: bold;
+}
+/* visited link */
+a:visited {
+  color: brown;
+}
+/* mouse over link */
+a:hover {
+  color:#cc6600;
+}
+/* unvisited link */
+a:link {
+  color:#ff3300;
+}
+h4
+{
+margin: 4px;
+padding: 4px;
+}
+p, h4 {
+  font-size: 14pt;
+}
+h6 {
+  font-size: 13pt;
+}
+h2 {
+  margin: 0;
+  padding: 0;
+  background: white;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.navbar {
+  list-style-type: none;
+  margin: 5;
+  padding: 5;
+  background: white;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 15pt;
+  align-items: horizontal;
 }
