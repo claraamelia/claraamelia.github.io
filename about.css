@@ -1,0 +1,46 @@
+img {
+    border: 5px solid white;
+    border-radius: 50%;
+    align: center;
+}
+body {
+  background-image: url("https://i.pinimg.com/564x/a1/53/e6/a153e6a54869cc7bd897dbf1eb1eb943.jpg");
+  font-family:'Noticia Text', serif;
+  background-color: pink;
+}
+h1, h5 {
+  background: white;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+h1 {
+  font-size: 25pt;
+}
+p {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 15px;
+  border: 12px solid white;
+}
+ul {
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  padding: 10px;
+  border: 10px solid white;
+}
+a:visited {
+  color: #ff6699;
+}
+/* mouse over link */
+a:hover {
+  color:#cc0066;
+}
+/* unvisited link */
+a:link {
+  color:#ff3300;
+}
